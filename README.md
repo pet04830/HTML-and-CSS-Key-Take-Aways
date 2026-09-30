@@ -23,12 +23,10 @@
             created with <strong>&lt;ul&gt;</strong> and <strong>&lt;li&gt;</strong>.
             These elements make the content easier for both people and browsers to
             understand.
-        </p>
-
-            My biggest takeaway is that HTML is about organization and structure,
-            not just making a webpage look good.
-        </p>
-    </section>
+      </p>
+My biggest takeaway is that HTML is about organization and structure, not just making a webpage look good.
+  </p>
+   </section>
 
 <h2> HTML and CSS Work Together <h2>
 
@@ -61,7 +59,7 @@
         </ul>
     </section>
 
-        <h2>3. HTML Can Be Useful for Technical Writers</h2>
+   <h2>3. HTML Can Be Useful for Technical Writers</h2>
 
   <p>
             The third takeaway I have is that HTML can be especially useful for
